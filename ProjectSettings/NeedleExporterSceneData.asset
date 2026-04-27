@@ -16,4 +16,9 @@ MonoBehaviour:
   - Path: Assets/Scenes/SanboxNeedle.unity
     Projects: []
     BuilderScene: 
-  Projects: []
+  - Path: Assets/Samples/Needle Engine/Configurator.unity
+    Projects:
+    - ProjectPath: Needle/Configurator
+    BuilderScene: 
+  Projects:
+  - ProjectPath: Needle/Configurator
